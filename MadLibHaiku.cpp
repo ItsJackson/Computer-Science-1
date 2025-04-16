@@ -1,5 +1,5 @@
 /*
-Jackson T
+Jackson Te
 MadLibHaiku.cpp
 This program launches a game of "Mad Libs".
 
